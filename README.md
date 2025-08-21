@@ -1,2 +1,2 @@
-# Dashboard da Pimenta Estética
-Projeto de visualização para tomadas estratégicas em Gestão Comercial de onde eu trabalho.
+# Bill Trcker Project
+This is a Software Engineering project.
